@@ -85,7 +85,6 @@ The reports include a LOT of technical data such as:
 | Jonsered 2165 Turbo |  | [German](reports/Jonsered%202165%20Turbo.pdf) |
 | Jonsered 2171 Turbo |  | [German](reports/Jonsered%202171%20Turbo.pdf) |
 | Jonsered 2186 |  | [German](reports/Jonsered%202186.pdf) |
-| Makita EA4300F copy |  | [German](reports/Makita%20EA4300F%20copy.pdf) |
 | Makita EA4300F | [English](reports/Makita%20EA4300F-en.pdf) | [German](reports/Makita%20EA4300F.pdf) |
 | Makita EA5600F |  | [German](reports/Makita%20EA5600F.pdf) |
 | Makita EA610xP | [English](reports/Makita%20EA610xP-en.pdf) | [German](reports/Makita%20EA610xP.pdf) |
