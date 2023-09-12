@@ -2,7 +2,7 @@
 
 # Chainsaw Test Reports
 
-Test reports for a wide range of chainsaws, originally published by the German organisation [KWF (Kuratorium für Waldarbeit und Forsttechnik)](https://kwf2020.kwf-online.de/).
+Test reports for a wide range of chainsaws, originally published by the independent German organisation [KWF](https://kwf2020.kwf-online.de/) (Kuratorium für Waldarbeit und Forsttechnik – English translation: Board of Trustees for Forest Work and Forestry Technology).
 
 | Brand & Model |  |  |
 | :----- | :----- | :----- |
