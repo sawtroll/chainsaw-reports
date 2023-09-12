@@ -4,6 +4,19 @@
 
 Test reports for a wide range of chainsaws, originally published by the independent German organisation [KWF](https://kwf2020.kwf-online.de/) (Kuratorium für Waldarbeit und Forsttechnik – English translation: Board of Trustees for Forest Work and Forestry Technology).
 
+The reports include a LOT of technical data such as:
+- Max Power and Max Torque (at RPM)
+- Fuel Consumption (per kWh)
+- Chain Oil Consumption (min, max) at different RPMs
+- Sound Pressure Level
+- Vibration (front/rear handle)
+- Chain Brake Activation Forces
+- Weight per Unit of Power
+- Operability and Handling Evaluation
+- Maintenance
+- Engine Data
+- Main Dimensions and Weights
+
 | Brand & Model |  |  |
 | :----- | :----- | :----- |
 | DOLMAR 110i |  | [German](reports/DOLMAR%20110i.pdf) |
