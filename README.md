@@ -23,6 +23,7 @@ The reports include a LOT of technical data such as:
 | :-----                    | :-----                                                     | :-----                                                 |
 | DOLMAR 110i               |                                                            | [German](reports/DOLMAR%20110i.pdf)                    |
 | DOLMAR 115i               |                                                            | [German](reports/DOLMAR%20115i.pdf)                    |
+| DOLMAR ES-1800            |                                                            | [German](reports/DOLMAR%20ES-1800.pdf)                 |
 | DOLMAR PS-420             | [English](reports/DOLMAR%20PS-420-en.pdf)                  | [German](reports/DOLMAR%20PS-420.pdf)                  |
 | DOLMAR PS-4600            | [English](reports/DOLMAR%20PS-4600-en.pdf)                 | [German](reports/DOLMAR%20PS-4600.pdf)                 |
 | DOLMAR PS-4605            |                                                            | [German](reports/DOLMAR%20PS-4605.pdf)                 |
@@ -59,13 +60,13 @@ The reports include a LOT of technical data such as:
 | Husqvarna 545 Mark II     | [English](reports/Husqvarna%20545%20Mark%20II-en.pdf)      | [German](reports/Husqvarna%20545%20Mark%20II.pdf)      |
 | Husqvarna 545             | [English](reports/Husqvarna%20545-en.pdf)                  | [German](reports/Husqvarna%20545.pdf)                  |
 | Husqvarna 550 XP Mark II  | [English](reports/Husqvarna%20550%20XP%20Mark%20II-en.pdf) | [German](reports/Husqvarna%20550%20XP%20Mark%20II.pdf) |
-| Husqvarna 550 XP          | [English](reports/Husqvarna%20550%20XP-en.pdf)             | [German](reports/Husqvarna%20550%20XP.pdf)             |
 | Husqvarna 550 XP(G)       | [English](reports/Husqvarna%20550%20XP(G)-en.pdf)          | [German](reports/Husqvarna%20550%20XP(G).pdf)          |
+| Husqvarna 550 XP          | [English](reports/Husqvarna%20550%20XP-en.pdf)             | [German](reports/Husqvarna%20550%20XP.pdf)             |
 | Husqvarna 555             | [English](reports/Husqvarna%20555-en.pdf)                  | [German](reports/Husqvarna%20555.pdf)                  |
-| Husqvarna 560XP           | [English](reports/Husqvarna%20560XP-en.pdf)                | [German](reports/Husqvarna%20560XP.pdf)                |
 | Husqvarna 560XP(G)        | [English](reports/Husqvarna%20560XP(G)-en.pdf)             | [German](reports/Husqvarna%20560XP(G).pdf)             |
-| Husqvarna 562XP           | [English](reports/Husqvarna%20562XP-en.pdf)                | [German](reports/Husqvarna%20562XP.pdf)                |
+| Husqvarna 560XP           | [English](reports/Husqvarna%20560XP-en.pdf)                | [German](reports/Husqvarna%20560XP.pdf)                |
 | Husqvarna 562XP(G)        | [English](reports/Husqvarna%20562XP(G)-en.pdf)             | [German](reports/Husqvarna%20562XP(G).pdf)             |
+| Husqvarna 562XP           | [English](reports/Husqvarna%20562XP-en.pdf)                | [German](reports/Husqvarna%20562XP.pdf)                |
 | Husqvarna 565             |                                                            | [German](reports/Husqvarna%20565.pdf)                  |
 | Husqvarna 570             | [English](reports/Husqvarna%20570-en.pdf)                  | [German](reports/Husqvarna%20570.pdf)                  |
 | Husqvarna 572XP(G)        |                                                            | [German](reports/Husqvarna%20572XP(G).pdf)             |
@@ -85,14 +86,17 @@ The reports include a LOT of technical data such as:
 | Jonsered 2165 Turbo       |                                                            | [German](reports/Jonsered%202165%20Turbo.pdf)          |
 | Jonsered 2171 Turbo       |                                                            | [German](reports/Jonsered%202171%20Turbo.pdf)          |
 | Jonsered 2186             |                                                            | [German](reports/Jonsered%202186.pdf)                  |
+| Makita EA4300F copy       |                                                            | [German](reports/Makita%20EA4300F%20copy.pdf)          |
 | Makita EA4300F            | [English](reports/Makita%20EA4300F-en.pdf)                 | [German](reports/Makita%20EA4300F.pdf)                 |
 | Makita EA5600F            |                                                            | [German](reports/Makita%20EA5600F.pdf)                 |
 | Makita EA610xP            | [English](reports/Makita%20EA610xP-en.pdf)                 | [German](reports/Makita%20EA610xP.pdf)                 |
+| Metabo Kt 1441            |                                                            | [German](reports/Metabo%20Kt%201441.pdf)               |
 | Oleo-Mac 956              |                                                            | [German](reports/Oleo-Mac%20956.pdf)                   |
-| Solo 665                  | [English](reports/Solo%20665-en.pdf)                       | [German](reports/Solo%20665.pdf)                       |
-| Solo 675                  | [English](reports/Solo%20675-en.pdf)                       | [German](reports/Solo%20675.pdf)                       |
-| Solo 681                  | [English](reports/Solo%20681-en.pdf)                       | [German](reports/Solo%20681.pdf)                       |
 | STIHL 036 QS              |                                                            | [German](reports/STIHL%20036%20QS.pdf)                 |
+| STIHL E 140               |                                                            | [German](reports/STIHL%20E%20140.pdf)                  |
+| STIHL E 160               |                                                            | [German](reports/STIHL%20E%20160.pdf)                  |
+| STIHL E 180 C             |                                                            | [German](reports/STIHL%20E%20180%20C.pdf)              |
+| STIHL E 220 (C)           |                                                            | [German](reports/STIHL%20E%20220%20(C).pdf)            |
 | STIHL MS 150 TC-E         |                                                            | [German](reports/STIHL%20MS%20150%20TC-E.pdf)          |
 | STIHL MS 190 T            |                                                            | [German](reports/STIHL%20MS%20190%20T.pdf)             |
 | STIHL MS 192 T            |                                                            | [German](reports/STIHL%20MS%20192%20T.pdf)             |
@@ -140,3 +144,11 @@ The reports include a LOT of technical data such as:
 | STIHL MSA 161 T           | [English](reports/STIHL%20MSA%20161%20T-en.pdf)            | [German](reports/STIHL%20MSA%20161%20T.pdf)            |
 | STIHL MSA 200 C-BQ        | [English](reports/STIHL%20MSA%20200%20C-BQ-en.pdf)         | [German](reports/STIHL%20MSA%20200%20C-BQ.pdf)         |
 | STIHL MSA 220 C-B         | [English](reports/STIHL%20MSA%20220%20C-B-en.pdf)          | [German](reports/STIHL%20MSA%20220%20C-B.pdf)          |
+| STIHL MSE 140             |                                                            | [German](reports/STIHL%20MSE%20140.pdf)                |
+| STIHL MSE 160             |                                                            | [German](reports/STIHL%20MSE%20160.pdf)                |
+| STIHL MSE 180 C           |                                                            | [German](reports/STIHL%20MSE%20180%20C.pdf)            |
+| STIHL MSE 200 C           |                                                            | [German](reports/STIHL%20MSE%20200%20C.pdf)            |
+| STIHL MSE 220 C           |                                                            | [German](reports/STIHL%20MSE%20220%20C.pdf)            |
+| Solo 665                  | [English](reports/Solo%20665-en.pdf)                       | [German](reports/Solo%20665.pdf)                       |
+| Solo 675                  | [English](reports/Solo%20675-en.pdf)                       | [German](reports/Solo%20675.pdf)                       |
+| Solo 681                  | [English](reports/Solo%20681-en.pdf)                       | [German](reports/Solo%20681.pdf)                       |
