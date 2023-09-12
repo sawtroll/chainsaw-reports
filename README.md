@@ -17,6 +17,8 @@ The reports include a LOT of technical data such as:
 - Engine Data
 - Main Dimensions and Weights
 
+## Links to PDF Test Reports
+
 | Brand & Model |  |  |
 | :----- | :----- | :----- |
 | DOLMAR 110i |  | [German](reports/DOLMAR%20110i.pdf) |
@@ -69,7 +71,6 @@ The reports include a LOT of technical data such as:
 | Husqvarna 572XP(G) |  | [German](reports/Husqvarna%20572XP(G).pdf) |
 | Husqvarna 575 XPG | [English](reports/Husqvarna%20575%20XPG-en.pdf) | [German](reports/Husqvarna%20575%20XPG.pdf) |
 | Husqvarna 576 XP | [English](reports/Husqvarna%20576%20XP-en.pdf) | [German](reports/Husqvarna%20576%20XP.pdf) |
-| Husqvarna 576 XP(1) |  | [German](reports/Husqvarna%20576%20XP(1).pdf) |
 | Husqvarna T535i XP | [English](reports/Husqvarna%20T535i%20XP-en.pdf) | [German](reports/Husqvarna%20T535i%20XP.pdf) |
 | Husqvarna T540i XP | [English](reports/Husqvarna%20T540i%20XP-en.pdf) | [German](reports/Husqvarna%20T540i%20XP.pdf) |
 | Jonsered 2063 Turbo |  | [German](reports/Jonsered%202063%20Turbo.pdf) |
