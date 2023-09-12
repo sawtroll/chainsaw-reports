@@ -76,9 +76,9 @@ Downloading 10252_22.pdf to ./files-2023-11-12/10252_22.pdf
 * Check for duplicates against current list (use utility)
 * Rename files to match brand and model (plus `-en` suffix for English language versions)
 * Add new files to repository file list in [reports](./reports/)
+* List the files
+  `ls -1p | egrep -v /$` 
 * Copy file name listing to spreadsheet [KWF Test Report Markdown generation](https://docs.google.com/spreadsheets/d/1m3kVIHacdpucfIuVUekzyl80FkJsdFMETi23rCuUpgE/edit#gid=331780796)
 * Copy Markdown table content from sheet `MarkdownExport` and paste in [README.md](../README.md)
 * Commit changes and wait for Github Pages to be built and deployed to https://sawtroll.github.io/chainsaw-reports/
-
-
-* 
+ 
