@@ -152,3 +152,5 @@ The reports include a LOT of technical data such as:
 | Solo 665                  | [English](reports/Solo%20665-en.pdf)                       | [German](reports/Solo%20665.pdf)                       |
 | Solo 675                  | [English](reports/Solo%20675-en.pdf)                       | [German](reports/Solo%20675.pdf)                       |
 | Solo 681                  | [English](reports/Solo%20681-en.pdf)                       | [German](reports/Solo%20681.pdf)                       |
+
+Project [Wiki](../../wiki)
