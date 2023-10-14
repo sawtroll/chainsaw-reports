@@ -1,4 +1,4 @@
-<img title="Sawtroll Logo" alt="Sawtroll Logo" src="resources/troll2_black_outline_640.png" width="140"/>
+<img title="sawtroll logo" alt="sawtroll logo" src="resources/troll_green_640_640.png" width="140"/>
 
 # Chainsaw Test Reports
 
