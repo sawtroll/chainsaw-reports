@@ -53,6 +53,7 @@ The reports include a LOT of technical data such as:
 | Husqvarna 372 XP          |                                                            | [German](reports/Husqvarna%20372%20XP.pdf)             |
 | Husqvarna 385 XP          |                                                            | [German](reports/Husqvarna%20385%20XP.pdf)             |
 | Husqvarna 390 XP          | [English](reports/Husqvarna%20390%20XP-en.pdf)             | [German](reports/Husqvarna%20390%20XP.pdf)             |
+| Husqvarna 394 XP          |                                                            | [German](reports/Husqvarna%20394%20XP.pdf)             |
 | Husqvarna 455 Rancher     | [English](reports/Husqvarna%20455%20Rancher-en.pdf)        | [German](reports/Husqvarna%20455%20Rancher.pdf)        |
 | Husqvarna 535i XP         | [English](reports/Husqvarna%20535i%20XP-en.pdf)            | [German](reports/Husqvarna%20535i%20XP.pdf)            |
 | Husqvarna 540i XP         | [English](reports/Husqvarna%20540i%20XP-en.pdf)            | [German](reports/Husqvarna%20540i%20XP.pdf)            |
